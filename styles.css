@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(241, 241, 241);
+}
+
+.photos {
+    text-align: center;
+    padding: 50px 50px;
+}
+
+.stitched {
+    padding: 10px;
+    margin: 10px;
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 1.3em;
+    border: 2px dashed rgb(0, 0, 0);
+    border-radius: 10px;
+    box-shadow: 0 0 0 4px #ffffff, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+    text-shadow: -1px -1px #ffffff;
+    font-weight: normal;
+    text-align: center;
+    font-family: 'Old Standard TT', serif;
+ }
+
+h1 {
+    
+    font-size: 45px;
+    font-family: 'Fredericka the Great', cursive;
+    font-weight: 50;
+}
+
+h2 {
+    font-family: 'Old Standard TT', serif;
+    font-weight: 50;
+}
+
+header {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    width: 425px;
+    margin: 0 auto;
+    font-family: 'Old Standard TT', serif;
+    font-weight: 20px;
+}
+
+.info {
+    text-align: center;
+    width: 350px;
+    margin: 0 auto;
+    font-family: 'Old Standard TT', serif;
+    font-weight: 20px;
+}
